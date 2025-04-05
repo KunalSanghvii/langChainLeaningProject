@@ -1,1 +1,1 @@
-openapi_key = "sk-proj-"
+#openapi_key = ""
