@@ -12,10 +12,4 @@ This project uses **LangChain** and **OpenAI's GPT models** to generate:
 - Test LangChain's ability to interact with OpenAI's language models.
 - Use the language model to answer complex queries about cities and colleges in a structured manner.
 
-## Requirements
 
-- Python 3.7+
-- Install the required dependencies from `requirements.txt`:
-  
-  ```bash
-  pip install -r requirements.txt
